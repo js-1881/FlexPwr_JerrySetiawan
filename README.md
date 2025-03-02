@@ -1,4 +1,6 @@
-Readme:				
+Hello FlexPower team,
+
+Readme:
 for Task 1:
 I uploaded two files (the database sqlite and the python file) inside the repository.
 
