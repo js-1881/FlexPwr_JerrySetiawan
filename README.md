@@ -11,7 +11,7 @@ I have included a readme sheet in the excel file for further details.
 I answer each task in a separate sheet using Excel, except for Tasks 2.4, 2.5, and 2.6.						
 The answers/explanations/notes are located on the right side of the historical data table (highlighted cells).							  
 
-Please let me know if you have any questions or need any other information. 
+Please let me know if you have any questions or need any other information.
 Thank you.
 
 Regards,
